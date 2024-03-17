@@ -33,13 +33,13 @@ if vim.o.background == "dark" then
     local def_fg = "#71ade7"
     local const_fg = "#cc8bc9"
     local active = "#cd974b"
-    local string_fg = "#95cb82"
+    local string_fg = "#21de96"
     local darker_fg = "#7d7d7d"
     local diffadd = "#6abf40"
     local diffdelete = "#d2322d"
     local diffchange = "#ec8013"
     local statusline = "#162022"
-    local comment = "#dfdf8e"
+    local comment = "#dea821"
     local dim_comment = "#696969"
     local mistake = {
         fg = "#c33c33",
